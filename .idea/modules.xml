@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_01_01/_01_01.iml" filepath="$PROJECT_DIR$/_01_01/_01_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_02/_01_02.iml" filepath="$PROJECT_DIR$/_01_02/_01_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_03/_01_03.iml" filepath="$PROJECT_DIR$/_01_03/_01_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_base-configration/_02_base-configration.iml" filepath="$PROJECT_DIR$/_02_base-configration/_02_base-configration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_junit/_03_junit.iml" filepath="$PROJECT_DIR$/_03_junit/_03_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_mybatis/_04_mybatis.iml" filepath="$PROJECT_DIR$/_04_mybatis/_04_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05_mybatis_plus/_05_mybatis_plus.iml" filepath="$PROJECT_DIR$/_05_mybatis_plus/_05_mybatis_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06_druid/_06_druid.iml" filepath="$PROJECT_DIR$/_06_druid/_06_druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_ssmp/_07_ssmp.iml" filepath="$PROJECT_DIR$/_07_ssmp/_07_ssmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_00xxx/xxxxxxxxxxxxxxxxx.iml" filepath="$PROJECT_DIR$/_01_00xxx/xxxxxxxxxxxxxxxxx.iml" />
+    </modules>
+  </component>
+</project>
