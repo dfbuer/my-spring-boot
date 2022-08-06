@@ -5,8 +5,6 @@ import com.buer.controller.utils.R;
 import com.buer.domain.Book;
 import com.buer.service.IBookService;
 import lombok.extern.slf4j.Slf4j;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -27,7 +25,6 @@ public class BookControllerR{
     @PostMapping
     public R save(@RequestBody Book book){
         boolean flag = iBookService.save(book);
-
         return new R(flag, flag ? "添加成功^_^!": "添加失败-_-!");
     }
 
@@ -38,6 +35,10 @@ public class BookControllerR{
 
     @DeleteMapping("/{id}")
     public R delete(@PathVariable("id") Integer id){
+        System.out.println("deploy...");
+        System.out.println("deploy...");
+        System.out.println("deploy...");
+        System.out.println("deploy...");
         return new R(iBookService.removeById(id));
     }
 

@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/_05_mybatis_plus/pom.xml" />
         <option value="$PROJECT_DIR$/_06_druid/pom.xml" />
         <option value="$PROJECT_DIR$/_07_ssmp/pom.xml" />
+        <option value="$PROJECT_DIR$/../_08_ssmp_hot_deploy/pom.xml" />
+        <option value="$PROJECT_DIR$/_08_ssmp_hot_deploy/pom.xml" />
       </list>
     </option>
   </component>
