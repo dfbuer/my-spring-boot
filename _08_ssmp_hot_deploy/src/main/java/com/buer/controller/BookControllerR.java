@@ -36,9 +36,6 @@ public class BookControllerR{
     @DeleteMapping("/{id}")
     public R delete(@PathVariable("id") Integer id){
         System.out.println("deploy...");
-        System.out.println("deploy...");
-        System.out.println("deploy...");
-        System.out.println("deploy...");
         return new R(iBookService.removeById(id));
     }
 

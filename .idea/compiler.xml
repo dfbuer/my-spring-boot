@@ -7,16 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="person_system" />
+        <module name="_06_druid" />
+        <module name="_08_ssmp_hot_deploy" />
+        <module name="_02_base-configration" />
+        <module name="_09_configration" />
         <module name="_03_junit" />
         <module name="_01_01" />
         <module name="_05_mybatis_plus" />
         <module name="_01_02" />
         <module name="_04_mybatis" />
-        <module name="_06_druid" />
-        <module name="_08_ssmp_hot_deploy" />
         <module name="_01_03" />
         <module name="_07_ssmp" />
-        <module name="_02_base-configration" />
         <module name="xxxxxxxxxxxxxxxxx" />
       </profile>
     </annotationProcessing>
@@ -31,6 +33,8 @@
       <module name="_06_druid" target="1.8" />
       <module name="_07_ssmp" target="1.8" />
       <module name="_08_ssmp_hot_deploy" target="1.8" />
+      <module name="_09_configration" target="1.8" />
+      <module name="person_system" target="1.8" />
       <module name="xxxxxxxxxxxxxxxxx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -43,6 +47,8 @@
       <module name="_06_druid" options="-parameters" />
       <module name="_07_ssmp" options="-parameters" />
       <module name="_08_ssmp_hot_deploy" options="-parameters" />
+      <module name="_09_configration" options="-parameters" />
+      <module name="person_system" options="-parameters" />
       <module name="xxxxxxxxxxxxxxxxx" options="-parameters" />
     </option>
   </component>

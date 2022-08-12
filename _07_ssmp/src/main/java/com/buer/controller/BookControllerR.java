@@ -52,7 +52,7 @@ public class BookControllerR{
         //如果当前页码值大于总页码值，那么重新执行查询操作，使用最大页码值作为当前页码值
         //System.out.println(book);
         if (currentPage > page.getPages()){
-            page = iBookService.getPage1(currentPage, pageSize,book);
+            page = iBookService.getPage1((int) page.getPages(), pageSize,book);
         }
         return new R(true,page);
     }

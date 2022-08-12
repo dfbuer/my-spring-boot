@@ -1,0 +1,31 @@
+#2.配置相关信息
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC
+#    username: root
+#    password: 142007
+#    type: com.alibaba.druid.pool.DruidDataSource
+
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/person_system?serverTimezone=UTC
+      username: root
+      password: 142007
+      type: com.alibaba.druid.pool.DruidDataSource
+
+#设置mp相关的配置
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tb_
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+#配置端口
+server:
+  port: 80

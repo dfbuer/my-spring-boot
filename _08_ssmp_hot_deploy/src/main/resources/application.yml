@@ -7,6 +7,7 @@
 #    password: 142007
 #    type: com.alibaba.druid.pool.DruidDataSource
 
+
 spring:
   datasource:
     druid:
@@ -15,6 +16,11 @@ spring:
       username: root
       password: 142007
       type: com.alibaba.druid.pool.DruidDataSource
+      #自动热部署触发文件配置
+  devtools:
+    restart:
+      exclude: static/**,public/**,config/application.yml
+#      enabled: false
 
 #设置mp相关的配置
 mybatis-plus:
@@ -29,3 +35,5 @@ mybatis-plus:
 #配置端口
 server:
   port: 80
+
+

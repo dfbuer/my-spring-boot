@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/_06_druid/_06_druid.iml" filepath="$PROJECT_DIR$/_06_druid/_06_druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/_07_ssmp/_07_ssmp.iml" filepath="$PROJECT_DIR$/_07_ssmp/_07_ssmp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../_08_ssmp_hot_deploy/_08_ssmp_hot_deploy.iml" filepath="$PROJECT_DIR$/../_08_ssmp_hot_deploy/_08_ssmp_hot_deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_09_configration/_09_configration.iml" filepath="$PROJECT_DIR$/_09_configration/_09_configration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person_system/person_system.iml" filepath="$PROJECT_DIR$/person_system/person_system.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_00xxx/xxxxxxxxxxxxxxxxx.iml" filepath="$PROJECT_DIR$/_01_00xxx/xxxxxxxxxxxxxxxxx.iml" />
     </modules>
