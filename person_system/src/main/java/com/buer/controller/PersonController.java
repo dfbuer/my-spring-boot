@@ -22,6 +22,7 @@ public class PersonController {
 
     @PostMapping
     public R add(@RequestBody Person person){
+        System.out.println(person);
         boolean save = personService.save(person);
         return new R(save,save ? "添加成功^_^!": "添加失败-_-!");
     }

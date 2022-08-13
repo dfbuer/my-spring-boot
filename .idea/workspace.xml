@@ -5,93 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499569ff-b9fa-48e6-87d8-24557e38d71a" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_08_ssmp_hot_deploy/src/main/resources/config/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_09_configration/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_09_configration/src/main/java/com/buer/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_09_configration/src/main/java/com/buer/config/ServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_09_configration/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_09_configration/src/test/java/com/buer/ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/MPConfig/MPConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/controller/PersonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/controller/utils/ProjectExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/controller/utils/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/dao/PersonDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/service/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/service/impl/PersonServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/js/axios-0.18.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/js/vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/pages/person.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/pages/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/elementui/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/elementui/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/pages/test1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_07_ssmp/src/main/java/com/buer/controller/BookControllerR.java" beforeDir="false" afterPath="$PROJECT_DIR$/_07_ssmp/src/main/java/com/buer/controller/BookControllerR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_08_ssmp_hot_deploy/src/main/java/com/buer/controller/BookControllerR.java" beforeDir="false" afterPath="$PROJECT_DIR$/_08_ssmp_hot_deploy/src/main/java/com/buer/controller/BookControllerR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_08_ssmp_hot_deploy/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_08_ssmp_hot_deploy/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/person_system/src/main/java/com/buer/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/controller/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/person_system/src/main/java/com/buer/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/person_system/src/main/java/com/buer/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/person_system/src/main/resources/static/pages/person.html" beforeDir="false" afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/pages/person.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/person_system/src/main/resources/static/pages/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/person_system/src/main/resources/static/pages/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,17 +117,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.Application (11)">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ApplicationTests.contextLoads (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="_04_mybatis" />
       <extension name="coverage">
@@ -457,7 +365,7 @@
       <workItem from="1660189012389" duration="1848000" />
       <workItem from="1660191852175" duration="26000" />
       <workItem from="1660191887492" duration="2086000" />
-      <workItem from="1660276782172" duration="12121000" />
+      <workItem from="1660276782172" duration="17302000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <created>1659342851930</created>
@@ -473,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659756386135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3.0">
+      <created>1660290794348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660290794348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,7 +398,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1.0" />
     <MESSAGE value="2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.0" />
+    <MESSAGE value="3.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.0" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

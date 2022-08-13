@@ -5,6 +5,33 @@
     <title>Title</title>
 </head>
 <body>
+<div id="localImag">
+    <img id="preview" src="" width="150" height="180" style="display: block; width: 150px; height: 180px;">
+    <input type="file" name="img" id="docfile" style="width:150px;" onchange="setImagePreview();">
+</div>
+<script>
+
+    let a;
+
+    function setImagePreview() {
+        var docObj = document.getElementById("docfile");
+        var imgObjPreview = document.getElementById("preview");
+        console.log(docObj.files[0])
+        if (docObj.files && docObj.files[0]) {
+            var reader = new FileReader();
+            reader.readAsDataURL(docObj.files[0]);//发起异步请求
+            reader.onload = function(){
+                //读取完成后，数据保存在对象的result属性中
+                // console.log(this.result)
+                // imgObjPreview.src=this.result
+                // console.log(imgObjPreview)
+                a = imgObjPreview;
+                console.log(a)
+            }
+        }
+    }
+</script>
+
 
 </body>
 </html>
